@@ -1,0 +1,33 @@
+{
+  "botToken": "OTc1MzE0NDI3MDM1NDEwNDcy.GlRmyt.QX1LnXkaKNLkPHx-ngxZoSCcIz85Wj3O6cy16s",
+  "botOwner": "953441893486829589",
+  "botPrefix": ".",
+  "botVoiceChannel": "975330281072496680",
+  "botActivityName": "PİNGMAN <31 Shō ",
+  "botActivityType": "PLAYING",
+  "botStatus": "online",
+
+  "mongoConnectionLink": "mongodb+srv://Registerbot:05418237286e@cluster0.ybabe.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+
+  "welcomeChannel": "975332747679793202",
+  "rulesChannel": "975333085031837716",
+  "Suspicious": "975351129003159562",
+  "Unregistered": "975331052417597501",
+
+
+  "FamilyRole": "",
+  "Tag": "",
+  "Untag": "",
+
+  "RegisterStaff": ["975331696318763038"],
+  "ManRole": "975333241705869342",
+  "WomanRole": "975333249922531388",
+  "BoosterRole": "975333506739744850",
+
+  "Yes": "✅",
+  "No": "❌"
+
+  
+
+}
+
